@@ -1,0 +1,25 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+// @import '~bootstrap/scss/bootstrap';
+
+@import '../compilables/css/vendor/bootstrap.min.css';
+@import '../compilables/css/vendor/signericafat.css';
+@import '../compilables/css/vendor/cerebrisans.css';
+@import '../compilables/css/vendor/simple-line-icons.css';
+@import '../compilables/css/vendor/elegant.css';
+@import '../compilables/css/vendor/linear-icon.css';
+@import '../compilables/css/plugins/nice-select.css';
+@import '../compilables/css/plugins/easyzoom.css';
+@import '../compilables/css/plugins/slick.css';
+@import '../compilables/css/plugins/animate.css';
+@import '../compilables/css/plugins/magnific-popup.css';
+@import '../compilables/css/plugins/jquery-ui.css';
+@import '../compilables/css/style.css';
+
+@import "~noty/src/noty.scss";
+@import "~noty/src/themes/mint.scss";
